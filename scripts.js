@@ -11,7 +11,7 @@ Solution:
 
 ========================================================================================================================
 */
-
+var http = require('http');
 var https = require('https');
 var zipcodes = require("./zipdata.js");
 var data = zipcodes.zipdata;
