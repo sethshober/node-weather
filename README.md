@@ -1,5 +1,5 @@
 # node-weather
-### retrieves weather data by typing a zipcode into the console
+### retrieves weather data via zipcode
 
 to run: node app.js [zipcode]
 
