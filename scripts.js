@@ -122,7 +122,7 @@ function printError(error) {
 
 
 
-//make functions available to app
+//make functions available to application
 module.exports = {
 	getZipCoordinates: getZipCoordinates,
 	zipcode: zipcode
